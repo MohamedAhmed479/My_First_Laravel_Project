@@ -190,9 +190,6 @@ This project is an **Admin Dashboard for E-Commerce** or business management pla
   Delete a specific message.
 
 ---
-For your documentation, you can describe the chat feature like this:
-
----
 
 ### **Conversation Management (Chat System)**
 
