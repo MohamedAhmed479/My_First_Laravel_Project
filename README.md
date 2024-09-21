@@ -1,11 +1,4 @@
-# **Project Documentation**
-
 This documentation was written by **ChatGPT**. I provided it with the **Routes**, and it generated the documentation based on those routes.
-
----
-**ChatGPT**
-Certainly! Based on the two route files you've provided, your project seems to be a well-structured e-commerce or business management application with different roles (admin and super admin) that can perform various operations. Here's a documentation overview of your project based on the routes:
-
 ---
 
 # **Project Overview**
