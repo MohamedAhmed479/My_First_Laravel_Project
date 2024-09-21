@@ -224,11 +224,3 @@ This project is an **Admin Dashboard for E-Commerce** or business management pla
 - **Routing Groups**: Routes are grouped by functionality and roles for clarity and separation of concerns.
 
 ---
-
-### **Possible Extensions:**
-- **Customer Frontend**: You may want to implement a customer-facing frontend to allow users to interact with the system (e.g., placing orders, managing profiles).
-- **Reports and Analytics**: Adding analytics features such as sales reports, customer activity, or product performance could be useful.
-
----
-
-This documentation provides a high-level overview of the main routes and their functionalities, useful for understanding the scope and features of the project.
