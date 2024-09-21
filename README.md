@@ -190,20 +190,22 @@ This project is an **Admin Dashboard for E-Commerce** or business management pla
   Delete a specific message.
 
 ---
+For your documentation, you can describe the chat feature like this:
 
-#### **Conversation Management**
-- **`Resource /admin/conversations`** (except `index` and `destroy`)
-  Full CRUD for conversations.
-  
-- **`DELETE /admin/conversations/{conversation}`**  
-  Delete a specific conversation.
-  
-- **`GET /admin/Show-Conversation/{conversation_id?}`**  
-  Show all conversations or a specific one.
-  
-- **`GET /admin/conversation/viewProfile/{customer_id}`**  
-  View the profile of a customer from a conversation.
+---
 
+### **Conversation Management (Chat System)**
+
+This part of the project allows supervisors to manage conversations with customers. Supervisors can send and receive messages, view customer profiles, and manage conversations directly from the admin panel.
+
+- **`/admin/conversations`**: Full CRUD for conversations, excluding `index` and `destroy`.
+- **`DELETE /admin/conversations/{conversation}`**: Deletes a specific conversation.
+- **`GET /admin/Show-Conversation/{conversation_id?}`**: Displays all conversations or a specific one if an ID is provided.
+- **`GET /admin/conversation/viewProfile/{customer_id}`**: Allows the supervisor to view the profile of a customer involved in a conversation.
+
+---
+
+This would clarify the role of the chat system in the project for anyone reviewing the documentation.
 ---
 
 ### **Key Functionalities:**
