@@ -205,9 +205,6 @@ This part of the project allows supervisors to manage conversations with custome
 
 ---
 
-This would clarify the role of the chat system in the project for anyone reviewing the documentation.
----
-
 ### **Key Functionalities:**
 - **Admin Dashboard**: Provides an overview for managing the entire system.
 - **Customer Management**: Complete CRUD operations for managing customer data.
